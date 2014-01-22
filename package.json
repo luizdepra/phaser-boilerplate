@@ -1,0 +1,34 @@
+{
+  "name": "phaser-boilerplate",
+  "version": "0.0.0",
+  "description": "A phaser.js game boilerplate for easy deploy and development.",
+  "keywords": [
+    "HTML5",
+    "game",
+    "boilerplate",
+    "phaser"
+  ],
+  "author": "Luiz F. A. de Pra",
+  "homepage": "https://github.com/RawArkanis/phaser-boilerplate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RawArkanis/phaser-boilerplate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RawArkanis/phaser-boilerplate.git"
+  },
+  "scripts": {
+    "start": "cd src && beefy js/main.js:js/bundle.js --live"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-uglify": "~0.3.1",
+    "browserify": "~3.23.1",
+    "grunt-browserify": "~1.3.0",
+    "grunt-processhtml": "~0.2.7",
+    "beefy": "~0.7.1"
+  }
+}
