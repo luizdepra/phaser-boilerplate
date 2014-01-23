@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"borde",
+				"border-spacing"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projetos/JS/phaser-boilerplate/src/js/main.js",
+		"/C/Projetos/JS/phaser-boilerplate/src/js/constant.js",
+		"/C/Projetos/JS/phaser-boilerplate/src/js/state/preloader_state.js",
+		"/C/Projetos/JS/phaser-boilerplate/src/js/state/loading_state.js",
+		"/C/Projetos/JS/phaser-boilerplate/src/css/main.css",
+		"/C/Projetos/JS/phaser-boilerplate/src/res/game_constant.json",
+		"/C/Projetos/JS/phaser-boilerplate/src/index.html",
+		"/C/Projetos/JS/phaser-boilerplate/src/res/game_data.json",
+		"/C/Projetos/JS/phaser-boilerplate/src/js/state/play_state.js",
+		"/C/Projetos/JS/phaser-boilerplate/src/js/state/main_menu_state.js",
+		"/C/Projetos/JS/phaser-boilerplate/project.sublime-project",
+		"/C/Projetos/JS/phaser-boilerplate/.gitignore",
+		"/C/Projetos/JS/phaser-boilerplate/Gruntfile.js",
+		"/C/Projetos/JS/phaser-boilerplate/README.md",
+		"/C/Projetos/JS/phaser-boilerplate/package.json",
+		"/C/Projetos/JS/phaser-boilerplate/build/index.html",
+		"/C/Projetos/JS/phaser-boilerplate/build/js/bundle.js",
+		"/C/Users/luizf/Desktop/codigo_luiz/main.css",
+		"/C/Users/luizf/Desktop/codigo_luiz/index.html",
+		"/C/Users/luizf/Downloads/hellophaser/index.html",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/config.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/game_data.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/main.js",
+		"/C/Projetos/JS/melonJS-boilerplate/Devfile.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/entity/hud.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/lib/melon.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/teste.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/screen/play_screen.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/screen/title_screen.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/entity/entities.js",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/constant.js",
+		"/C/Users/luizf/Downloads/boilerplate-master/js/resources.js",
+		"/C/Users/luizf/Downloads/boilerplate-master/js/game.js",
+		"/C/Users/luizf/Downloads/boilerplate-master/lib/plugins/debugPanel.js",
+		"/C/Users/luizf/Downloads/boilerplate-master/lib/melonJS-0.9.11.js",
+		"/C/Users/luizf/Downloads/boilerplate-master/index.html",
+		"/C/Projetos/JS/melonJS-boilerplate/src/index.html",
+		"/C/Users/luizf/Desktop/HTML/index.html",
+		"/C/Users/luizf/Desktop/HTML/main.css",
+		"/C/Projetos/JS/melonJS-boilerplate/src/js/util/class.js",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Projetos/JS/melonJS-boilerplate/package.json",
+		"/C/Projetos/JS/melonJS-boilerplate/README.md",
+		"/C/GitHub/static_blog/content/articles/01-14/st3-sync.rst",
+		"/C/GitHub/static_blog/content/articles/12-13/hello-world.rst",
+		"/C/Projetos/JS/melonJS-boilerplate/.gitignore",
+		"/C/Users/luizf/Desktop/migration_exames.sql",
+		"/C/Users/luizf/Dropbox/AppData/SublimeText3/install.sh",
+		"/C/Users/luizf/Dropbox/AppData/SublimeText3/install.bat",
+		"/C/GitHub/static_blog/content/pages/about-me.rst",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Local/Session.sublime_metrics",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/C/Users/luizf/AppData/Roaming/Sublime Text 3/Local/License.sublime_license"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Phaser\nPhaser",
+			"Phaser",
+			"END",
+			"THE END",
+			"module",
+			"destacado",
+			"\\n",
+			"\\t",
+			"table-cell",
+			"block",
+			"%;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

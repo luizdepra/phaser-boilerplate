@@ -1,0 +1,16 @@
+{
+    "GAME_NAME": "BOILERPLATE",
+
+    // HTMLs
+    "PROGRESSBAR_HTML": [
+        "<div class=\"loading-container\">",
+        "    <div class=\"loading-text\">",
+        "        LOADING...",
+        "    </div>",
+        "    <div class=\"loadingbar-container\">",
+        "        <div class=\"loadingbar\">",
+        "        </div>",
+        "    </div>",
+        "</div>"
+    ]
+}
